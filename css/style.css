@@ -84,3 +84,19 @@ li>i{
     vertical-align: middle;
     padding-top: 1.7rem;
 }
+
+.flex-center{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 10px;
+}
+
+.green{
+    color: lime;
+}
+
+.end-meeting:hover{
+    background-color: gray;
+    color: red;
+}
